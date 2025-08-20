@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there! I'm Pranav 👋
 
-<!--
-**pranav200408/pranav200408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turning coffee into code, one bug at a time ☕🐞
 
-Here are some ideas to get you started:
+![Coding Image](https://your-image-link.png)  <!-- Customize with your own or relevant image -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🚀 Currently exploring full-stack web development
+- 💡 Passionate about problem-solving and scalable solutions
+- 🌱 Always learning new technologies to improve
+- 🌙 Developer by day, dreamer by night
+
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav200408&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav200408&layout=compact&theme=dark" />
+</div>
+
+## 📬 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-d9e9ec?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pranav200408)
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
