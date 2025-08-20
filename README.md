@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<p align="center">
+<p>
   🚀 Currently exploring full-stack web development <br>
   💡 Passionate about problem-solving and scalable solutions <br>
   🌱 Always learning new technologies to improve <br>
