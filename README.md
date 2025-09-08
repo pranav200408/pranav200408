@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-    <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding GIF" width="350px"/>
+    <img src="http://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 </p>
 
 ---
