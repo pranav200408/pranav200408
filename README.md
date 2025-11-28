@@ -62,37 +62,41 @@
 
 <table>
   <tr>
-    <td width="30%">
-      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*YgbngTfTam1f97heJZ0IXA.png" width="100%" />
+    <td width="30%" valign="top">
+      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" target="_blank" rel="noopener">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*YgbngTfTam1f97heJZ0IXA.png" width="100%" alt="Blockchain article cover" />
       </a>
     </td>
-    <td width="70%">
-      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7">
-        <h3>In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...</h3>
+    <td width="70%" valign="top" style="padding-left:20px">
+      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" target="_blank" rel="noopener">
+        <h3 style="margin:0; padding:0">In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...</h3>
       </a>
-      <strong>Aug 22, 2024</strong>
-      <p>
-        This article explores how Blockchain technology is transforming industries through transparency,  
-        decentralization, and secure distributed systems...
+      <div style="margin-top:6px; margin-bottom:8px"><strong>Aug 22, 2024</strong></div>
+      <p style="margin-top:0">
+        This article explores how Blockchain technology is transforming industries by bringing transparency,
+        decentralization, and secure distributed systems — and why businesses are rapidly adopting it.
       </p>
     </td>
   </tr>
 
   <tr>
-    <td width="30%">
-      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yqNDSbxkOeCdyvrW2kTTbw.png" width="100%" />
+    <td colspan="2" style="height:18px"></td>
+  </tr>
+
+  <tr>
+    <td width="30%" valign="top">
+      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" target="_blank" rel="noopener">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yqNDSbxkOeCdyvrW2kTTbw.png" width="100%" alt="AI article cover" />
       </a>
     </td>
-    <td width="70%">
-      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c">
-        <h3>Artificial Intelligence (AI) is reshaping the way we experience the web today.</h3>
+    <td width="70%" valign="top" style="padding-left:20px">
+      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" target="_blank" rel="noopener">
+        <h3 style="margin:0; padding:0">Artificial Intelligence (AI) is reshaping the way we experience the web today.</h3>
       </a>
-      <strong>Aug 18, 2024</strong>
-      <p>
-        A beginner-friendly breakdown of how AI is transforming UI/UX, automation,  
-        personalization, and the future of modern web applications...
+      <div style="margin-top:6px; margin-bottom:8px"><strong>Aug 18, 2024</strong></div>
+      <p style="margin-top:0">
+        A beginner-friendly breakdown of how AI is changing UX, personalization, and automation — and practical ways
+        developers can start adopting AI features in web apps.
       </p>
     </td>
   </tr>
