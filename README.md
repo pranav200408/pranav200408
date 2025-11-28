@@ -15,7 +15,7 @@
 - 👯 Looking to collaborate on **open-source projects**.  
 - ✔ Ask me anything — happy to help (if the ball is in my court 😉).  
 - Outside tech, I enjoy music, football, and exploring new ideas.  
-- Here’s my **Resume** ([Link](YOUR_RESUME_LINK))  
+- Here’s my **Resume** ([Link](https://drive.google.com/file/d/1Px1fMuGGAYERAsyS3MpEIjW9PogXbny0/view?usp=drivesdk))  
 - Here’s my **Portfolio** ([Link](https://pranav200408.github.io/pranav-portfolio-final/))  
 
 ---
