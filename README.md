@@ -1,116 +1,89 @@
-<h1 align="center">Hi there! I'm Pranav Agone 👋</h1>
+<!-- Banner or GIF Optional -->
+<h1> 
+  <img src="https://github.com/rajpranavk/rajpranavk/blob/main/wave.gif" height="45"> 
+  Hello World! 
+  <img src="https://github.com/rajpranavk/rajpranavk/blob/main/wave.gif" height="45"> 
+</h1>
 
-<h3 align="center">💻 Full-Stack Developer | Open-Source Enthusiast | Lifelong Learner 🚀</h3>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About Me***
+
+- I’m Pranav — a passionate **Full-Stack Developer** who loves building clean, efficient and scalable applications.  
+- I work with **PHP**, **JavaScript**, **TypeScript**, **Node.js**, **React**, **Next.js**, **MongoDB**, **MySQL**, and **WordPress**.  
+- Currently exploring **DevOps**, **Docker**, **GitHub Actions**, and improving system design.  
+- I enjoy solving **DSA** problems & cracking technical challenges.  
+- In my free time, I write blogs on **Medium** about AI, web development, and emerging tech.  
+- 👯 Looking to collaborate on **open-source projects**.  
+- ✔ Ask me anything — happy to help (if the ball is in my court 😉).  
+- Outside tech, I enjoy music, football, and exploring new ideas.  
+- Here’s my **Resume** ([Link](YOUR_RESUME_LINK))  
+- Here’s my **Portfolio** ([Link](YOUR_PORTFOLIO_LINK))  
 
 ---
 
-<p align="center">
-    <img src="http://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width:375px;"/>
+<h3> Tech-stack 📜</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React JS](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+## 🔗 **Contact Me**
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](YOUR_TWITTER_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavagone080304@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+---
+
+## 📊 **GitHub Analytics**
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranav200408&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=pranav200408&count_private=true&show_icons=true&theme=tokyonight)
+
+<!-- 3D Contribution Graph -->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+## 📰 My Latest Blog Posts 👇  
+*(Fetched from your Medium profile @pranavagone080304)*
+
+<p align="left">
+<a href="YOUR_MEDIUM_POST_1_LINK" title="Blog 1 Title"><img src="BLOG_1_IMAGE" alt="Blog 1" width="250px" align="left" /></a>
+<a href="YOUR_MEDIUM_POST_1_LINK"><strong>Blog 1 Title</strong></a>
+<div><strong>DATE 1</strong></div>
+<br/> Blog 1 short description... 
 </p>
+<br/><br/>
 
----
-
-## 🚀 About Me  
-
-- 🎯 A passionate **Full-Stack Developer** focused on building scalable, efficient, and user-friendly web applications.  
-- 🌱 Currently learning and experimenting with **Next.js, TypeScript & DevOps basics (Docker/GitHub Actions)**.  
-- 💡 I love contributing to **open-source projects** and collaborating with developers worldwide.  
-- 🛠️ Interested in **WordPress, PHP, and modern JavaScript frameworks**.  
-- 🔥 Goal: To create impactful projects that solve real-world problems and add value to the community.  
-
-<p align="center">
-  <i>"Turning coffee ☕ into clean, working code."</i>
+<p align="left">
+<a href="YOUR_MEDIUM_POST_2_LINK" title="Blog 2 Title"><img src="BLOG_2_IMAGE" alt="Blog 2" width="250px" align="left" /></a>
+<a href="YOUR_MEDIUM_POST_2_LINK"><strong>Blog 2 Title</strong></a>
+<div><strong>DATE 2</strong></div>
+<br/> Blog 2 short description...
 </p>
+<br/><br/>
 
 ---
 
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <!-- Core Web Tech -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<details>
+   <summary><b>🏆 Github Trophies</b></summary>
+<br>
   
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  
-  <!-- Frontend Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranav200408&theme=onedark&row=1&column=7&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+</details>
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav200408&show_icons=true&theme=tokyonight" alt="Pranav's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=pranav200408&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav200408&theme=tokyonight" />
-</p>
-
----
-
-## 📊 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav200408&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🌟 Featured Projects  
-
-- 🔹 [**GH-Timeline**](https://github.com/pranav200408/gh-timeline) → Email verification + GitHub activity updates system (PHP).  
-- 🔹 [**WP-GitHub-Timeline**](https://github.com/pranav200408/wp-github-timeline) → WordPress plugin to display latest GitHub activity.  
-- 🔹 More projects on my [GitHub Repos →](https://github.com/pranav200408?tab=repositories)  
-
----
-
-## 🏆 Achievements & Activities  
-
-- 🥇 Daily open-source contributions (60-day streak in progress ⚡).  
-- 🔗 Contributed to **WordPress & WooCommerce community projects**.  
-- 🏅 Working towards **GitHub Achievements** like Pull Shark, Arctic Code Vault.  
-
----
-
-## 📬 Let's Connect  
-
-<p align="center">
-  <a href="mailto:pranavagone080304@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-d9e9ec?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/pranav-agone-6639a92ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/pranav200408" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pranav200408.repoName)
