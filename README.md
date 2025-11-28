@@ -47,13 +47,10 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+<p align="center">
+  <img src="https://github.com/pranav200408/pranav200408/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranav200408&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=pranav200408&count_private=true&show_icons=true&theme=tokyonight)
-
-<!-- 3D Contribution Graph -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
