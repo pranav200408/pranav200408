@@ -58,71 +58,42 @@
 
 ---
 
-## 📰 My Latest Blog Posts 👇  
-*(Fetched from your Medium profile @pranavagone080304)*
+## My Latest Blog Posts 👇
 
-<p align="left">
-<a href="YOUR_MEDIUM_POST_1_LINK" title="Blog 1 Title"><img src="BLOG_1_IMAGE" alt="Blog 1" width="250px" align="left" /></a>
-<a href="YOUR_MEDIUM_POST_1_LINK"><strong>Blog 1 Title</strong></a>
-<div><strong>DATE 1</strong></div>
-<br/> Blog 1 short description... 
-</p>
-<br/><br/>
+<table>
+  <tr>
+    <td width="30%">
+      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*YgbngTfTam1f97heJZ0IXA.png" width="100%" />
+      </a>
+    </td>
+    <td width="70%">
+      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7">
+        <h3>In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...</h3>
+      </a>
+      <strong>Aug 22, 2024</strong>
+      <p>
+        This article explores how Blockchain technology is transforming industries through transparency,  
+        decentralization, and secure distributed systems...
+      </p>
+    </td>
+  </tr>
 
-<p align="left">
-<a href="YOUR_MEDIUM_POST_2_LINK" title="Blog 2 Title"><img src="BLOG_2_IMAGE" alt="Blog 2" width="250px" align="left" /></a>
-<a href="YOUR_MEDIUM_POST_2_LINK"><strong>Blog 2 Title</strong></a>
-<div><strong>DATE 2</strong></div>
-<br/> Blog 2 short description...
-</p>
-<br/><br/>
-
----
-
-<details>
-   <summary><b>🏆 Github Trophies</b></summary>
-<br>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav200408&theme=onedark&row=1&column=7&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pranav200408.repoName)
-
-
-
-## 📰 My Latest Blog Posts 👇  
-*(Fetched from your Medium profile @pranavagone080304)*
-
-<p align="left">
-<a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" title="In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...">
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*YgbngTfTam1f97heJZ0IXA.png" alt="Blockchain Blog" width="250px" align="left" />
-</a>
-
-<a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7"><strong>
-In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...
-</strong></a>
-
-<div><strong>Aug 22, 2024</strong></div>
-<br/> 
-This article explores how Blockchain technology is transforming industries by bringing transparency, security, and decentralization...
-</p>
-
-<br/><br/>
-
-<p align="left">
-<a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" title="Artificial Intelligence (AI) is reshaping the way we experience the web today.">
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yqNDSbxkOeCdyvrW2kTTbw.png" alt="AI Blog" width="250px" align="left" />
-</a>
-
-<a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c"><strong>
-Artificial Intelligence (AI) is reshaping the way we experience the web today.
-</strong></a>
-
-<div><strong>Aug 18, 2024</strong></div>
-<br/> 
-A beginner-friendly breakdown of how AI is changing user experience, automation, decision-making, and the future of web applications...
-</p>
-
-<br/><br/>
-
+  <tr>
+    <td width="30%">
+      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yqNDSbxkOeCdyvrW2kTTbw.png" width="100%" />
+      </a>
+    </td>
+    <td width="70%">
+      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c">
+        <h3>Artificial Intelligence (AI) is reshaping the way we experience the web today.</h3>
+      </a>
+      <strong>Aug 18, 2024</strong>
+      <p>
+        A beginner-friendly breakdown of how AI is transforming UI/UX, automation,  
+        personalization, and the future of modern web applications...
+      </p>
+    </td>
+  </tr>
+</table>
