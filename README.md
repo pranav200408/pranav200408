@@ -64,38 +64,38 @@
   <tr>
     <td width="30%" valign="top">
       <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" target="_blank" rel="noopener">
-        <img src="https://cdn.pixabay.com/photo/2018/01/18/07/14/blockchain-3089728_1280.jpg" width="100%" alt="Blockchain Image" />
+        <img src="https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&w=800&q=60" width="100%" alt="Blockchain Image" />
       </a>
     </td>
     <td width="70%" valign="top" style="padding-left:20px">
       <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" target="_blank" rel="noopener">
-        <h3 style="margin:0; padding:0">In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to…</h3>
+        <h3 style="margin:0; padding:0">In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...</h3>
       </a>
-      <div style="margin-top:6px; margin-bottom:8px"><strong>Aug 22, 2024</strong></div>
-      <p style="margin-top:0">
-        This article explores how Blockchain is reshaping industries with decentralization, transparency, 
-        and next-gen secure systems.
+      <div><strong>Aug 22, 2024</strong></div>
+      <p>
+        A clear beginner-friendly breakdown of how Blockchain is transforming businesses with decentralization 
+        and secure distributed systems.
       </p>
     </td>
   </tr>
 
-  <tr><td colspan="2" style="height:18px"></td></tr>
+  <tr><td colspan="2" style="height:20px"></td></tr>
 
   <tr>
     <td width="30%" valign="top">
       <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" target="_blank" rel="noopener">
-        <img src="https://cdn.pixabay.com/photo/2017/08/10/03/30/artificial-intelligence-2617926_1280.jpg" width="100%" alt="AI Image" />
+        <!-- 100% Working AI Image -->
+        <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=60" width="100%" alt="AI Image" />
       </a>
     </td>
     <td width="70%" valign="top" style="padding-left:20px">
       <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" target="_blank" rel="noopener">
         <h3 style="margin:0; padding:0">Artificial Intelligence (AI) is reshaping the way we experience the web today.</h3>
       </a>
-      <div style="margin-top:6px; margin-bottom:8px"><strong>Aug 18, 2024</strong></div>
-      <p style="margin-top:0">
-        A beginner-friendly breakdown of how AI improves web personalization, automation, and smart UX.
+      <div><strong>Aug 18, 2024</strong></div>
+      <p>
+        An easy explanation of how AI is transforming UX, automation, personalization, and modern web applications.
       </p>
     </td>
   </tr>
 </table>
-
