@@ -47,9 +47,13 @@
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github.com/pranav200408/pranav200408/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
+
 
 
 ---
@@ -84,3 +88,41 @@
 </details>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pranav200408.repoName)
+
+
+
+## 📰 My Latest Blog Posts 👇  
+*(Fetched from your Medium profile @pranavagone080304)*
+
+<p align="left">
+<a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" title="In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*YgbngTfTam1f97heJZ0IXA.png" alt="Blockchain Blog" width="250px" align="left" />
+</a>
+
+<a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7"><strong>
+In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...
+</strong></a>
+
+<div><strong>Aug 22, 2024</strong></div>
+<br/> 
+This article explores how Blockchain technology is transforming industries by bringing transparency, security, and decentralization...
+</p>
+
+<br/><br/>
+
+<p align="left">
+<a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" title="Artificial Intelligence (AI) is reshaping the way we experience the web today.">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yqNDSbxkOeCdyvrW2kTTbw.png" alt="AI Blog" width="250px" align="left" />
+</a>
+
+<a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c"><strong>
+Artificial Intelligence (AI) is reshaping the way we experience the web today.
+</strong></a>
+
+<div><strong>Aug 18, 2024</strong></div>
+<br/> 
+A beginner-friendly breakdown of how AI is changing user experience, automation, decision-making, and the future of web applications...
+</p>
+
+<br/><br/>
+
