@@ -16,7 +16,7 @@
 - ✔ Ask me anything — happy to help (if the ball is in my court 😉).  
 - Outside tech, I enjoy music, football, and exploring new ideas.  
 - Here’s my **Resume** ([Link](YOUR_RESUME_LINK))  
-- Here’s my **Portfolio** ([Link](YOUR_PORTFOLIO_LINK))  
+- Here’s my **Portfolio** ([Link](https://pranav200408.github.io/pranav-portfolio-final/))  
 
 ---
 
