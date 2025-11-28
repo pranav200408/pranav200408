@@ -1,12 +1,10 @@
 name: GitHub-Profile-3D-Contrib
 
-# run daily and manual
 on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
 
-# Give the action permission to write files using GITHUB_TOKEN
 permissions:
   contents: write
 
@@ -21,7 +19,42 @@ jobs:
           fetch-depth: 0
 
       - name: Generate 3D contrib SVG
-        uses: yoshi389111/github-profile-3d-contrib@0.6.2
+        # use main branch of the action repo (stable if tags missing)
+        uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: pranav200408
+
+      - name: Commit & push generated files
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add profile-3d-contrib || true
+          git commit -m "chore: generate 3d contrib" || echo "no changes to commit"
+          git push origin HEAD:main || echo "push failed"
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Generate 3D contrib SVG
+        # use main branch of the action repo (stable if tags missing)
+        uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: pranav200408
