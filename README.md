@@ -96,12 +96,12 @@
 
   <tr>
     <td width="34%" valign="top">
-      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" target="_blank" rel="noopener noreferrer">
+      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-5fbeb6168fce"_blank" rel="noopener noreferrer">
         <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=60" width="100%" alt="AI Image" />
       </a>
     </td>
     <td width="66%" valign="top" style="padding-left:18px">
-      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-c4761b8eb92c" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;">
+      <a href="https://medium.com/@pranavagone080304/artificial-intelligence-ai-is-reshaping-the-way-we-experience-the-web-today-5fbeb6168fce"_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;">
         <h3 style="margin:0 0 8px 0">Artificial Intelligence (AI) is reshaping the way we experience the web today.</h3>
       </a>
       <div style="margin-bottom:8px"><strong>Aug 18, 2024</strong></div>
