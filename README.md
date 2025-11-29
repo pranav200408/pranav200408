@@ -79,12 +79,12 @@
 <table>
   <tr>
     <td width="34%" valign="top">
-      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" target="_blank" rel="noopener noreferrer">
+      <a href="https://medium.com/@pranavagone080304/in-todays-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-e13780f40417">
         <img src="https://images.unsplash.com/photo-1620121692029-d088224ddc74?auto=format&fit=crop&w=800&q=60" width="100%" alt="Blockchain Image" />
       </a>
     </td>
     <td width="66%" valign="top" style="padding-left:18px">
-      <a href="https://medium.com/@pranavagone080304/in-today-s-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-0a315ff78ea7" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;">
+      <a href="https://medium.com/@pranavagone080304/in-todays-fast-paced-digital-era-one-term-that-keeps-revolving-everywhere-from-finance-to-e13780f40417" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;">
         <h3 style="margin:0 0 8px 0">In today’s fast-paced digital era, one term that keeps revolving everywhere — from finance to...</h3>
       </a>
       <div style="margin-bottom:8px"><strong>Aug 22, 2024</strong></div>
